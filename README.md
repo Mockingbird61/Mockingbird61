@@ -20,8 +20,8 @@
 ---
 
 ### 📌 My Projects
-- 🌐 [Portfolio Website](https://github.com/Mockingbird61/mywebsite)
-- 📁 [Second Portfolio Template](https://github.com/Mockingbird61/portfolio)
+- 🌐 [Website](https://github.com/Mockingbird61/mywebsite)
+- 📁 [Portfolio](https://github.com/Mockingbird61/portfolio)
 - 📝 [Mini Blog Application (PHP + MySQL)](https://github.com/Mockingbird61/mini-blog_app)
 - ✅ [To-Do List App (JavaScript)](https://github.com/Mockingbird61/todo_app)
 
