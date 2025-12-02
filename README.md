@@ -20,11 +20,11 @@
 ---
 
 ### 📌 My Projects
-Here are some of the projects I’ve been working on:
+- 🌐 [Portfolio Website](https://github.com/Mockingbird61/mywebsite)
+- 📁 [Second Portfolio Template](https://github.com/Mockingbird61/portfolio)
+- 📝 [Mini Blog Application (PHP + MySQL)](https://github.com/Mockingbird61/mini-blog_app)
+- ✅ [To-Do List App (JavaScript)](https://github.com/Mockingbird61/todo_app)
 
-- 🌐 [Portfolio Website](https://github.com/Mockingbird61/portfolio-site)  
-- 📝 [Mini Blog Application (PHP + MySQL)](https://github.com/Mockingbird61/mini-blog-app)  
-- ✅ [To-Do List App (JavaScript)](https://github.com/Mockingbird61/todo_app)  
 
 > These projects include front-end, back-end, and full-stack development.
 
