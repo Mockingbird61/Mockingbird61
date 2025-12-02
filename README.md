@@ -39,7 +39,7 @@
 ---
 
 ### 📫 Contact
-- 📧 Email: *your-email@example.com*  
+- 📧 Email: *bugra61mustafa@icloud.com*  
 - 🌍 Portfolio (coming soon!)
 
 ---
